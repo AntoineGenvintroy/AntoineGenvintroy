@@ -2,7 +2,6 @@
 <ul>
   <li> 👀 I’m interested in hacking (games, websites...).</li>
   <li> 🌱 I’m currently learning Python.</li>
-  <li> 📫 How to reach me: antoinegenvintroy@gmail.com</li>
   <li> 😄 Pronouns: He/Him</li>
 </ul>
 
